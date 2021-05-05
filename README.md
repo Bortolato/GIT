@@ -22,4 +22,4 @@
 - > git log 		(ver todas as versões e os autores)
 - > git remote add origin https://github.com/Bortolato/Projetos.git (adiciona no repositorio remoto)
 - > git push -u origin master
--    (depois só usar git push)
+-     (Depois só usar git push)
