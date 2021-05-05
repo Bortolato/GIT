@@ -13,13 +13,13 @@ Git e Github são diferentes
 
 Git na prática
 
-> git init	(comando para iniciar um repositório git em uma pasta do projeto)
-> ls -h		(ver arquivos dentro da pasta)
-    (Aqui cria-se e se inicia os arquivos do projeto)
-> git status	(status do git no momento)
-> git add .\app.js (adicionando o arquivo no radar do git)
-> git commit -m “---” (pega o que está no radar e da o commit)
-> git log 		(ver todas as versões e os autores)
-> git remote add origin https://github.com/Bortolato/Projetos.git (adiciona no repositorio remoto)
-> git push -u origin master
-    depois só usar git push
+- > git init	(comando para iniciar um repositório git em uma pasta do projeto)
+- > ls -h		(ver arquivos dentro da pasta)
+-     (Aqui cria-se e se inicia os arquivos do projeto)
+- > git status	(status do git no momento)
+- > git add .\app.js (adicionando o arquivo no radar do git)
+- > git commit -m “---” (pega o que está no radar e da o commit)
+- > git log 		(ver todas as versões e os autores)
+- > git remote add origin https://github.com/Bortolato/Projetos.git (adiciona no repositorio remoto)
+- > git push -u origin master
+-    depois só usar git push
