@@ -1,9 +1,9 @@
-#Git e Github
+## Git e Github
 
 - É muito boa a utilização quando trabalhado em equipe porque permite versionamento, tendo mais controle de versão, autores e datas.
 - Git rastreia alterações em arquivos e permite que volte em um determinado momento
 
-##Git e Github são diferentes
+### Git e Github são diferentes
 
 - Github é onde se cria o repositório, upload e download de arquivos, seguir outras pessoas interagir e ver outros projetos
 
@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------------------
 
-##Git na prática
+### Git na prática
 
 - > git init	(comando para iniciar um repositório git em uma pasta do projeto)
 - > ls -h		(ver arquivos dentro da pasta)
